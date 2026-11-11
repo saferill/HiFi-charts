@@ -1,78 +1,77 @@
 {
-    "success":  true,
-    "data":  [
-                 {
-                     "id":  "ea898fca-f105-4fb6-96df-87edac04ac88",
-                     "name":  "Trending Weekly - Indonesia",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "id",
-                     "createdAt":  "2026-11-06T12:01:01.040783260Z",
-                     "youtubePlaylistId":  "PLDnJkqKSA3qc",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLDnJkqKSA3qc"
-                 },
-                 {
-                     "id":  "fa7ae346-781d-4dd0-b729-7e8b2622820d",
-                     "name":  "Trending Weekly - Global",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "global",
-                     "createdAt":  "2026-11-06T12:00:25.192702279Z",
-                     "youtubePlaylistId":  "PLLbgXVCDpQlU",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLLbgXVCDpQlU"
-                 },
-                 {
-                     "id":  "00c69bd9-ee6b-4765-a12b-f94b49f9d2e4",
-                     "name":  "Trending Weekly - Vietnam",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "vn",
-                     "createdAt":  "2026-11-06T12:00:39.198710817Z",
-                     "youtubePlaylistId":  "PLbJQWJjp_u-c",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLbJQWJjp_u-c"
-                 },
-                 {
-                     "id":  "3fc65cda-cf13-46d2-bf0c-cbc1ec635e95",
-                     "name":  "Trending Weekly - Italy",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "it",
-                     "createdAt":  "2026-11-06T12:00:51.526816312Z",
-                     "youtubePlaylistId":  "PLAR8HFISoPsk",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLAR8HFISoPsk"
-                 },
-                 {
-                     "id":  "a02e9754-7403-4531-87fd-ff781843077b",
-                     "name":  "Trending Weekly - Brazil",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "br",
-                     "createdAt":  "2026-11-06T12:01:19.132618954Z",
-                     "youtubePlaylistId":  "PLc9KD2F9eTtQ",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLc9KD2F9eTtQ"
-                 },
-                 {
-                     "id":  "fb31cad2-480f-4989-b0b9-3ce9c46d1781",
-                     "name":  "Trending Weekly - Mexico",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "mx",
-                     "createdAt":  "2026-11-06T12:01:33.555183981Z",
-                     "youtubePlaylistId":  "PLJzVcTl23uJE",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLJzVcTl23uJE"
-                 },
-                 {
-                     "id":  "9ec9b3c5-4b56-4612-a708-5470f1758a6f",
-                     "name":  "Trending Weekly - United States",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "us",
-                     "createdAt":  "2026-11-06T12:01:40.784327639Z",
-                     "youtubePlaylistId":  "PLJ0yr7hfVeQU",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLJ0yr7hfVeQU"
-                 },
-                 {
-                     "id":  "9f1924d0-e50e-4566-a5f8-55b789fd6491",
-                     "name":  "Trending Weekly - Spain",
-                     "description":  "Today\u0027s most popular tracks based on user listening data (Top 50)",
-                     "country":  "es",
-                     "createdAt":  "2026-11-06T12:01:48.162888218Z",
-                     "youtubePlaylistId":  "PLXEFbrY03QWQ",
-                     "youtubeUrl":  "https://music.youtube.com/playlist?list=PLXEFbrY03QWQ"
-                 }
-             ],
-    "meta":  null
+  "success": true,
+  "data": [
+    {
+      "id": "ea898fca-f105-4fb6-96df-87edac04ac88",
+      "name": "Trending Weekly - Indonesia",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "id",
+      "createdAt": "2026-11-06T12:01:01.040783260Z",
+      "youtubePlaylistId": "PLDnJkqKSA3qc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLDnJkqKSA3qc"
+    },
+    {
+      "id": "fa7ae346-781d-4dd0-b729-7e8b2622820d",
+      "name": "Trending Weekly - Global",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "global",
+      "createdAt": "2026-11-06T12:00:25.192702279Z",
+      "youtubePlaylistId": "PLLbgXVCDpQlU",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLbgXVCDpQlU"
+    },
+    {
+      "id": "00c69bd9-ee6b-4765-a12b-f94b49f9d2e4",
+      "name": "Trending Weekly - Vietnam",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "vn",
+      "createdAt": "2026-11-06T12:00:39.198710817Z",
+      "youtubePlaylistId": "PLbJQWJjp_u-c",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbJQWJjp_u-c"
+    },
+    {
+      "id": "3fc65cda-cf13-46d2-bf0c-cbc1ec635e95",
+      "name": "Trending Weekly - Italy",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "it",
+      "createdAt": "2026-11-06T12:00:51.526816312Z",
+      "youtubePlaylistId": "PLAR8HFISoPsk",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLAR8HFISoPsk"
+    },
+    {
+      "id": "a02e9754-7403-4531-87fd-ff781843077b",
+      "name": "Trending Weekly - Brazil",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "br",
+      "createdAt": "2026-11-06T12:01:19.132618954Z",
+      "youtubePlaylistId": "PLc9KD2F9eTtQ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLc9KD2F9eTtQ"
+    },
+    {
+      "id": "fb31cad2-480f-4989-b0b9-3ce9c46d1781",
+      "name": "Trending Weekly - Mexico",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "mx",
+      "createdAt": "2026-11-06T12:01:33.555183981Z",
+      "youtubePlaylistId": "PLJzVcTl23uJE",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLJzVcTl23uJE"
+    },
+    {
+      "id": "9ec9b3c5-4b56-4612-a708-5470f1758a6f",
+      "name": "Trending Weekly - United States",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "us",
+      "createdAt": "2026-11-06T12:01:40.784327639Z",
+      "youtubePlaylistId": "PLJ0yr7hfVeQU",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLJ0yr7hfVeQU"
+    },
+    {
+      "id": "9f1924d0-e50e-4566-a5f8-55b789fd6491",
+      "name": "Trending Weekly - Spain",
+      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "country": "es",
+      "createdAt": "2026-11-06T12:01:48.162888218Z",
+      "youtubePlaylistId": "PLXEFbrY03QWQ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLXEFbrY03QWQ"
+    }
+  ]
 }
