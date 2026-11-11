@@ -1,0 +1,17 @@
+name: Sync HiFi Charts
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync and Auto-Commit Charts
+        run: bash scripts/sync-charts.sh
