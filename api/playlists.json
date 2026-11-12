@@ -2,76 +2,126 @@
   "success": true,
   "data": [
     {
-      "id": "ea898fca-f105-4fb6-96df-87edac04ac88",
-      "name": "Trending Weekly - Indonesia",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "id": "chart-id-top50",
+      "name": "Top 50 - Indonesia",
+      "description": "Lagu-lagu terpopuler dan paling sering diputar minggu ini di Indonesia",
       "country": "id",
-      "createdAt": "2026-11-06T12:01:01.040783260Z",
-      "youtubePlaylistId": "PLDnJkqKSA3qc",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLDnJkqKSA3qc"
+      "youtubePlaylistId": "PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
+      "createdAt": "2026-11-12T11:41:17Z"
     },
     {
-      "id": "fa7ae346-781d-4dd0-b729-7e8b2622820d",
-      "name": "Trending Weekly - Global",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "id": "chart-id-pop",
+      "name": "Pop Teratas - Indonesia",
+      "description": "Kompilasi lagu pop Indonesia terhangat dan hits teratas",
+      "country": "id",
+      "youtubePlaylistId": "RDCLAK5uy_kfdijGvB3x_26C15n7X10k_r_r8f-bYc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=RDCLAK5uy_kfdijGvB3x_26C15n7X10k_r_r8f-bYc",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-global-top50",
+      "name": "Top 50 - Global",
+      "description": "Lagu paling populer dan viral di seluruh dunia minggu ini",
       "country": "global",
-      "createdAt": "2026-11-06T12:00:25.192702279Z",
-      "youtubePlaylistId": "PLLbgXVCDpQlU",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLbgXVCDpQlU"
+      "youtubePlaylistId": "PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
+      "createdAt": "2026-11-12T11:41:17Z"
     },
     {
-      "id": "00c69bd9-ee6b-4765-a12b-f94b49f9d2e4",
-      "name": "Trending Weekly - Vietnam",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
-      "country": "vn",
-      "createdAt": "2026-11-06T12:00:39.198710817Z",
-      "youtubePlaylistId": "PLbJQWJjp_u-c",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbJQWJjp_u-c"
+      "id": "chart-global-hits",
+      "name": "Today's Biggest Hits - Global",
+      "description": "Hits terpopuler dunia yang sedang tren saat ini",
+      "country": "global",
+      "youtubePlaylistId": "RDCLAK5uy_kmPRjHDECIa2-2n5-b5f7yS4e5wQ_2s",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=RDCLAK5uy_kmPRjHDECIa2-2n5-b5f7yS4e5wQ_2s",
+      "createdAt": "2026-11-12T11:41:17Z"
     },
     {
-      "id": "3fc65cda-cf13-46d2-bf0c-cbc1ec635e95",
-      "name": "Trending Weekly - Italy",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
-      "country": "it",
-      "createdAt": "2026-11-06T12:00:51.526816312Z",
-      "youtubePlaylistId": "PLAR8HFISoPsk",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLAR8HFISoPsk"
-    },
-    {
-      "id": "a02e9754-7403-4531-87fd-ff781843077b",
-      "name": "Trending Weekly - Brazil",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
-      "country": "br",
-      "createdAt": "2026-11-06T12:01:19.132618954Z",
-      "youtubePlaylistId": "PLc9KD2F9eTtQ",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLc9KD2F9eTtQ"
-    },
-    {
-      "id": "fb31cad2-480f-4989-b0b9-3ce9c46d1781",
-      "name": "Trending Weekly - Mexico",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
-      "country": "mx",
-      "createdAt": "2026-11-06T12:01:33.555183981Z",
-      "youtubePlaylistId": "PLJzVcTl23uJE",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLJzVcTl23uJE"
-    },
-    {
-      "id": "9ec9b3c5-4b56-4612-a708-5470f1758a6f",
-      "name": "Trending Weekly - United States",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "id": "chart-us-top50",
+      "name": "Top 50 - United States",
+      "description": "Tangga lagu terpopuler minggu ini di Amerika Serikat",
       "country": "us",
-      "createdAt": "2026-11-06T12:01:40.784327639Z",
-      "youtubePlaylistId": "PLJ0yr7hfVeQU",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLJ0yr7hfVeQU"
+      "youtubePlaylistId": "PL4fGSIndQ80W2gP-3A9V2Q4oXk4uS4eL_",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W2gP-3A9V2Q4oXk4uS4eL_",
+      "createdAt": "2026-11-12T11:41:17Z"
     },
     {
-      "id": "9f1924d0-e50e-4566-a5f8-55b789fd6491",
-      "name": "Trending Weekly - Spain",
-      "description": "Today's most popular tracks based on user listening data (Top 50)",
+      "id": "chart-kr-top50",
+      "name": "Top 50 - South Korea (K-Pop)",
+      "description": "Tangga lagu K-Pop terpopuler minggu ini di Korea Selatan",
+      "country": "kr",
+      "youtubePlaylistId": "PL4fGSIndQ80W2rF4u5eP3s_B1h_gL1i_l",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W2rF4u5eP3s_B1h_gL1i_l",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-jp-top50",
+      "name": "Top 50 - Japan (J-Pop)",
+      "description": "Tangga lagu J-Pop dan anime terpopuler minggu ini di Jepang",
+      "country": "jp",
+      "youtubePlaylistId": "PL4fGSIndQ80Vq1qR9L2r4z_4m_Gk0xX_4",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Vq1qR9L2r4z_4m_Gk0xX_4",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-uk-top50",
+      "name": "Top 50 - United Kingdom",
+      "description": "Lagu terpopuler dan terlaris minggu ini di Inggris Raya",
+      "country": "uk",
+      "youtubePlaylistId": "PL4fGSIndQ80U-A_5l7y5C4Oq6wF7pC8h_",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80U-A_5l7y5C4Oq6wF7pC8h_",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-vn-top50",
+      "name": "Top 50 - Vietnam",
+      "description": "Bảng xếp hạng âm nhạc thịnh hành tại Việt Nam tuần này",
+      "country": "vn",
+      "youtubePlaylistId": "PL4fGSIndQ80X5nS5s8U3e_9_7w4pB4yq8",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80X5nS5s8U3e_9_7w4pB4yq8",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-br-top50",
+      "name": "Top 50 - Brazil",
+      "description": "Músicas mais tocadas e populares no Brasil",
+      "country": "br",
+      "youtubePlaylistId": "PL4fGSIndQ80W6pM9y7s9k1q5l2a4m8r9e",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W6pM9y7s9k1q5l2a4m8r9e",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-mx-top50",
+      "name": "Top 50 - Mexico",
+      "description": "Las canciones más escuchadas y populares en México",
+      "country": "mx",
+      "youtubePlaylistId": "PL4fGSIndQ80V2kM6p0v3s7l1_q9w5e8r2",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V2kM6p0v3s7l1_q9w5e8r2",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-es-top50",
+      "name": "Top 50 - Spain",
+      "description": "Las canciones más populares y escuchadas en España",
       "country": "es",
-      "createdAt": "2026-11-06T12:01:48.162888218Z",
-      "youtubePlaylistId": "PLXEFbrY03QWQ",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLXEFbrY03QWQ"
+      "youtubePlaylistId": "PL4fGSIndQ80X1lP8q4s2m6w0_v7b3e9r1",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80X1lP8q4s2m6w0_v7b3e9r1",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-it-top50",
+      "name": "Top 50 - Italy",
+      "description": "I brani più ascoltati e popolari della settimana in Italia",
+      "country": "it",
+      "youtubePlaylistId": "PL4fGSIndQ80U3wR8s2m5l1_q7b9v4e0r3",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80U3wR8s2m5l1_q7b9v4e0r3",
+      "createdAt": "2026-11-12T11:41:17Z"
     }
-  ]
+  ],
+  "meta": {
+    "total": 13,
+    "weekStart": "2026-11-12T11:41:17Z",
+    "weekEnd": "2026-11-12T11:41:17Z"
+  }
 }

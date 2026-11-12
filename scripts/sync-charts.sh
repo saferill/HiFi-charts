@@ -2,8 +2,7 @@
 set -euo pipefail
 
 mkdir -p api
-curl -fsSL "https://chart.simpmusic.org/api/playlists" -o /tmp/raw_playlists.json
-jq '.data = (([.data[] | select(.country == "id")] + [.data[] | select(.country == "global")] + [.data[] | select(.country != "id" and .country != "global")]))' /tmp/raw_playlists.json > api/playlists.json
+python3 scripts/sync-charts.py
 
 git config user.name "saferill"
 git config user.email "saferill@users.noreply.github.com"

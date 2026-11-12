@@ -15,51 +15,62 @@ This repository serves as a zero-cost, static API backend hosted directly via Gi
 
 ## Data Schema
 
-The feed indexes curated playlists grouped by category and country codes:
+The feed indexes curated YouTube Music chart playlists consumed directly by `com.maxrave.kotlinytmusicscraper.models.response.HiFiChartResponse`:
 
 ```json
 {
-  "lastUpdated": "2026-11-11T00:00:00Z",
-  "version": 1,
-  "regions": ["id", "global"],
-  "categories": [
+  "success": true,
+  "data": [
     {
-      "id": "trending",
-      "title": "Trending Charts",
-      "playlists": [
-        {
-          "id": "PL4fGSIFgk540-X_eYp_mE11a5A_gBq0wX",
-          "title": "Top 50 - Indonesia",
-          "subtitle": "Daily most-streamed tracks in Indonesia",
-          "thumbnail": "https://i.ytimg.com/vi/...",
-          "country": "id"
-        },
-        {
-          "id": "PL4fGSIFgk542k_3M19B86f8K8i0x6wB4r",
-          "title": "Global Top 100",
-          "subtitle": "Most popular tracks worldwide",
-          "thumbnail": "https://i.ytimg.com/vi/...",
-          "country": "global"
-        }
-      ]
+      "id": "chart-id-top50",
+      "name": "Top 50 - Indonesia",
+      "description": "Lagu-lagu terpopuler dan paling sering diputar minggu ini di Indonesia",
+      "country": "id",
+      "youtubePlaylistId": "PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
+      "createdAt": "2026-11-12T11:41:17Z"
+    },
+    {
+      "id": "chart-global-top50",
+      "name": "Top 50 - Global",
+      "description": "Lagu paling populer dan viral di seluruh dunia minggu ini",
+      "country": "global",
+      "youtubePlaylistId": "PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
+      "createdAt": "2026-11-12T11:41:17Z"
     }
-  ]
+  ],
+  "meta": {
+    "total": 13,
+    "weekStart": "2026-11-12T11:41:17Z",
+    "weekEnd": "2026-11-12T11:41:17Z"
+  }
 }
 ```
 
 ---
 
-## How It Works in HiFi
+## Supported Regions
 
-1. On launch, the HiFi client issues an asynchronous GET request to `api/playlists.json`.
-2. The response is cached locally in SQLite/DataStore. If the device is offline, cached charts are displayed seamlessly.
-3. Users can switch their chart region directly from the home feed or settings drawer without reloading the app.
+| Code | Region | Primary Chart |
+|------|--------|---------------|
+| `id` | Indonesia | Top 50 & Pop Teratas |
+| `global` | Global | Top 50 & Today's Biggest Hits |
+| `us` | United States | Top 50 United States |
+| `kr` | South Korea | Top 50 South Korea (K-Pop) |
+| `jp` | Japan | Top 50 Japan (J-Pop) |
+| `uk` | United Kingdom | Top 50 United Kingdom |
+| `vn` | Vietnam | Top 50 Vietnam |
+| `br` | Brazil | Top 50 Brazil |
+| `mx` | Mexico | Top 50 Mexico |
+| `es` | Spain | Top 50 Spain |
+| `it` | Italy | Top 50 Italy |
 
 ---
 
-## Maintenance
+## Automated Synchronization
 
-Charts are verified and updated on a regular schedule via `scripts/sync-charts.sh`. Broken playlists are replaced with active official charts to ensure continuous playback availability.
+Charts are verified and refreshed every 12 hours via GitHub Actions (`.github/workflows/sync-charts.yml`) using `scripts/sync-charts.py`.
 
 ---
 
