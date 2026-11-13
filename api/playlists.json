@@ -708,9 +708,9 @@
       "name": "Top Hits - Georgia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Georgia",
       "country": "ge",
-      "youtubePlaylistId": "PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
-      "createdAt": "2026-11-13T06:51:52Z"
+      "youtubePlaylistId": "PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
+      "createdAt": "2026-11-13T15:45:45Z"
     },
     {
       "id": "chart-am-top50",
@@ -798,9 +798,9 @@
       "name": "Top Hits - Tunisia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Tunisia",
       "country": "tn",
-      "youtubePlaylistId": "PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
-      "createdAt": "2026-11-13T06:53:43Z"
+      "youtubePlaylistId": "PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "createdAt": "2026-11-13T15:45:45Z"
     },
     {
       "id": "chart-dz-top50",
@@ -861,9 +861,9 @@
       "name": "Top Hits - Venezuela",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Venezuela",
       "country": "ve",
-      "youtubePlaylistId": "PLpJHk1jXCf7Ef0Fnt9svPU_gKGBP19NCh",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLpJHk1jXCf7Ef0Fnt9svPU_gKGBP19NCh",
-      "createdAt": "2026-11-13T06:53:43Z"
+      "youtubePlaylistId": "PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
+      "createdAt": "2026-11-13T15:45:45Z"
     },
     {
       "id": "chart-pr-top50",
@@ -906,9 +906,9 @@
       "name": "Top Hits - Qatar",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Qatar",
       "country": "qa",
-      "youtubePlaylistId": "PLOHoVaTp8R7e5H4JLitBylI4SYieiInfk",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLOHoVaTp8R7e5H4JLitBylI4SYieiInfk",
-      "createdAt": "2026-11-13T06:53:43Z"
+      "youtubePlaylistId": "PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "createdAt": "2026-11-13T15:45:45Z"
     },
     {
       "id": "chart-om-top50",
@@ -931,7 +931,7 @@
   ],
   "meta": {
     "total": 103,
-    "weekStart": "2026-11-13T06:53:43Z",
-    "weekEnd": "2026-11-13T06:53:43Z"
+    "weekStart": "2026-11-13T15:45:45Z",
+    "weekEnd": "2026-11-13T15:45:45Z"
   }
 }
