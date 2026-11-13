@@ -6,122 +6,932 @@
       "name": "Top 50 - Indonesia",
       "description": "Lagu-lagu terpopuler dan paling sering diputar minggu ini di Indonesia",
       "country": "id",
-      "youtubePlaylistId": "PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5QPpj0R4vVgRWk8sSq549G",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5QPpj0R4vVgRWk8sSq549G",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-id-pop",
       "name": "Pop Teratas - Indonesia",
       "description": "Kompilasi lagu pop Indonesia terhangat dan hits teratas",
       "country": "id",
-      "youtubePlaylistId": "RDCLAK5uy_kfdijGvB3x_26C15n7X10k_r_r8f-bYc",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=RDCLAK5uy_kfdijGvB3x_26C15n7X10k_r_r8f-bYc",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn4lW6MJA2q37CfnraqAizqE",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4lW6MJA2q37CfnraqAizqE",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-global-top50",
       "name": "Top 50 - Global",
       "description": "Lagu paling populer dan viral di seluruh dunia minggu ini",
       "country": "global",
-      "youtubePlaylistId": "PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5kI81J1fYWK5eZRl1zJ5kM",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5kI81J1fYWK5eZRl1zJ5kM",
+      "createdAt": "2026-11-13T06:50:02Z"
     },
     {
       "id": "chart-global-hits",
       "name": "Today's Biggest Hits - Global",
       "description": "Hits terpopuler dunia yang sedang tren saat ini",
       "country": "global",
-      "youtubePlaylistId": "RDCLAK5uy_kmPRjHDECIa2-2n5-b5f7yS4e5wQ_2s",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=RDCLAK5uy_kmPRjHDECIa2-2n5-b5f7yS4e5wQ_2s",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn6t3TXLGiiJdD-sZbrG3tG0",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6t3TXLGiiJdD-sZbrG3tG0",
+      "createdAt": "2026-11-13T06:50:02Z"
     },
     {
       "id": "chart-us-top50",
       "name": "Top 50 - United States",
       "description": "Tangga lagu terpopuler minggu ini di Amerika Serikat",
       "country": "us",
-      "youtubePlaylistId": "PL4fGSIndQ80W2gP-3A9V2Q4oXk4uS4eL_",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W2gP-3A9V2Q4oXk4uS4eL_",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn69On1f-8NAvX_CYlx7QyZc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn69On1f-8NAvX_CYlx7QyZc",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-kr-top50",
       "name": "Top 50 - South Korea (K-Pop)",
       "description": "Tangga lagu K-Pop terpopuler minggu ini di Korea Selatan",
       "country": "kr",
-      "youtubePlaylistId": "PL4fGSIndQ80W2rF4u5eP3s_B1h_gL1i_l",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W2rF4u5eP3s_B1h_gL1i_l",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5S09aId3dUGp40ygUqmPGc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5S09aId3dUGp40ygUqmPGc",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-jp-top50",
       "name": "Top 50 - Japan (J-Pop)",
       "description": "Tangga lagu J-Pop dan anime terpopuler minggu ini di Jepang",
       "country": "jp",
-      "youtubePlaylistId": "PL4fGSIndQ80Vq1qR9L2r4z_4m_Gk0xX_4",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Vq1qR9L2r4z_4m_Gk0xX_4",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5FhDrWnRp2NLzJCoPliNgT",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5FhDrWnRp2NLzJCoPliNgT",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-uk-top50",
       "name": "Top 50 - United Kingdom",
       "description": "Lagu terpopuler dan terlaris minggu ini di Inggris Raya",
       "country": "uk",
-      "youtubePlaylistId": "PL4fGSIndQ80U-A_5l7y5C4Oq6wF7pC8h_",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80U-A_5l7y5C4Oq6wF7pC8h_",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn688ebB8czINn0_nov50e3A",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn688ebB8czINn0_nov50e3A",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-vn-top50",
       "name": "Top 50 - Vietnam",
       "description": "Bảng xếp hạng âm nhạc thịnh hành tại Việt Nam tuần này",
       "country": "vn",
-      "youtubePlaylistId": "PL4fGSIndQ80X5nS5s8U3e_9_7w4pB4yq8",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80X5nS5s8U3e_9_7w4pB4yq8",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn4FPCRZtojwqQro5GPY6cuV",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4FPCRZtojwqQro5GPY6cuV",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-br-top50",
       "name": "Top 50 - Brazil",
       "description": "Músicas mais tocadas e populares no Brasil",
       "country": "br",
-      "youtubePlaylistId": "PL4fGSIndQ80W6pM9y7s9k1q5l2a4m8r9e",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80W6pM9y7s9k1q5l2a4m8r9e",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn4Gs2meaJRo9O8PNYvhjHIg",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4Gs2meaJRo9O8PNYvhjHIg",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-mx-top50",
       "name": "Top 50 - Mexico",
       "description": "Las canciones más escuchadas y populares en México",
       "country": "mx",
-      "youtubePlaylistId": "PL4fGSIndQ80V2kM6p0v3s7l1_q9w5e8r2",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V2kM6p0v3s7l1_q9w5e8r2",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5cDciLg1q9tabl7gzBZWOp",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5cDciLg1q9tabl7gzBZWOp",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-es-top50",
       "name": "Top 50 - Spain",
       "description": "Las canciones más populares y escuchadas en España",
       "country": "es",
-      "youtubePlaylistId": "PL4fGSIndQ80X1lP8q4s2m6w0_v7b3e9r1",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80X1lP8q4s2m6w0_v7b3e9r1",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn4jhQB4kb9M36dvVmJQPt4T",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4jhQB4kb9M36dvVmJQPt4T",
+      "createdAt": "2026-11-13T06:51:52Z"
     },
     {
       "id": "chart-it-top50",
       "name": "Top 50 - Italy",
       "description": "I brani più ascoltati e popolari della settimana in Italia",
       "country": "it",
-      "youtubePlaylistId": "PL4fGSIndQ80U3wR8s2m5l1_q7b9v4e0r3",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80U3wR8s2m5l1_q7b9v4e0r3",
-      "createdAt": "2026-11-13T04:40:08Z"
+      "youtubePlaylistId": "PL4fGSI1pDJn5BPviUFX4a3IMnAgyknC68",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5BPviUFX4a3IMnAgyknC68",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ar-top50",
+      "name": "Top 100 - Argentina",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Argentina",
+      "country": "ar",
+      "youtubePlaylistId": "PL4fGSI1pDJn403fWAsjzCMsLEgBTOa25K",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn403fWAsjzCMsLEgBTOa25K",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-au-top50",
+      "name": "Top 100 - Australia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Australia",
+      "country": "au",
+      "youtubePlaylistId": "PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-at-top50",
+      "name": "Top 100 - Austria",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Austria",
+      "country": "at",
+      "youtubePlaylistId": "PL4fGSI1pDJn42I7USCyNUQSjm-OlttqQf",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn42I7USCyNUQSjm-OlttqQf",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-be-top50",
+      "name": "Top 100 - Belgium",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Belgium",
+      "country": "be",
+      "youtubePlaylistId": "PL4fGSI1pDJn47l8EXIwa8SCWWjh79rgMq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn47l8EXIwa8SCWWjh79rgMq",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-bo-top50",
+      "name": "Top 100 - Bolivia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Bolivia",
+      "country": "bo",
+      "youtubePlaylistId": "PL4fGSI1pDJn7ShAOJR2HPZrHb83DpSzV8",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7ShAOJR2HPZrHb83DpSzV8",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ca-top50",
+      "name": "Top 100 - Canada",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Canada",
+      "country": "ca",
+      "youtubePlaylistId": "PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-cl-top50",
+      "name": "Top 100 - Chile",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Chile",
+      "country": "cl",
+      "youtubePlaylistId": "PL4fGSI1pDJn4M3llRxwSebRSrjFqeNN3x",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4M3llRxwSebRSrjFqeNN3x",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-co-top50",
+      "name": "Top 100 - Colombia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Colombia",
+      "country": "co",
+      "youtubePlaylistId": "PL4fGSI1pDJn4ObZYxzctc1AM45GSWm2DC",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4ObZYxzctc1AM45GSWm2DC",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-cr-top50",
+      "name": "Top 100 - Costa Rica",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Costa Rica",
+      "country": "cr",
+      "youtubePlaylistId": "PL4fGSI1pDJn5DbEh-PXgn9ZInq-F3NSOZ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5DbEh-PXgn9ZInq-F3NSOZ",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-cz-top50",
+      "name": "Top 100 - Czechia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Czechia",
+      "country": "cz",
+      "youtubePlaylistId": "PL4fGSI1pDJn4PsD5Tua9nTgnPsP0o9_0k",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4PsD5Tua9nTgnPsP0o9_0k",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-dk-top50",
+      "name": "Top 100 - Denmark",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Denmark",
+      "country": "dk",
+      "youtubePlaylistId": "PL4fGSI1pDJn4YoCXjBl6kg3DhYgUJTSfw",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4YoCXjBl6kg3DhYgUJTSfw",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-do-top50",
+      "name": "Top 100 - Dominican Republic",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Dominican Republic",
+      "country": "do",
+      "youtubePlaylistId": "PL4fGSI1pDJn5yRDIISesmCXjor-3lw2ET",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5yRDIISesmCXjor-3lw2ET",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ec-top50",
+      "name": "Top 100 - Ecuador",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Ecuador",
+      "country": "ec",
+      "youtubePlaylistId": "PL4fGSI1pDJn4mwbdPq0EeOiD86MvMtkq0",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4mwbdPq0EeOiD86MvMtkq0",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-eg-top50",
+      "name": "Top 100 - Egypt",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Egypt",
+      "country": "eg",
+      "youtubePlaylistId": "PL4fGSI1pDJn4EhpZkSSpdyWUet73FalVU",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4EhpZkSSpdyWUet73FalVU",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-sv-top50",
+      "name": "Top 100 - El Salvador",
+      "description": "Tangga lagu resmi YouTube Music paling populer di El Salvador",
+      "country": "sv",
+      "youtubePlaylistId": "PL4fGSI1pDJn59f4Ef4W3OgMW7HivJCrCt",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn59f4Ef4W3OgMW7HivJCrCt",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ee-top50",
+      "name": "Top 100 - Estonia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Estonia",
+      "country": "ee",
+      "youtubePlaylistId": "PL4fGSI1pDJn4fpNbyI8YHStVF-wyzHJtd",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4fpNbyI8YHStVF-wyzHJtd",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-fi-top50",
+      "name": "Top 100 - Finland",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Finland",
+      "country": "fi",
+      "youtubePlaylistId": "PL4fGSI1pDJn4ogogSnHUTIWMc_b7pHW9A",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4ogogSnHUTIWMc_b7pHW9A",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-fr-top50",
+      "name": "Top 100 - France",
+      "description": "Tangga lagu resmi YouTube Music paling populer di France",
+      "country": "fr",
+      "youtubePlaylistId": "PL4fGSI1pDJn50iCQRUVmgUjOrCggCQ9nR",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn50iCQRUVmgUjOrCggCQ9nR",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-de-top50",
+      "name": "Top 100 - Germany",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Germany",
+      "country": "de",
+      "youtubePlaylistId": "PL4fGSI1pDJn4X-OicSCOy-dChXWdTgziQ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4X-OicSCOy-dChXWdTgziQ",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-gt-top50",
+      "name": "Top 100 - Guatemala",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Guatemala",
+      "country": "gt",
+      "youtubePlaylistId": "PL4fGSI1pDJn4MxjoamEWxTh5J7lw1JZfA",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4MxjoamEWxTh5J7lw1JZfA",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-hn-top50",
+      "name": "Top 100 - Honduras",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Honduras",
+      "country": "hn",
+      "youtubePlaylistId": "PL4fGSI1pDJn5ESsEdE2R0v1nrLPIeM4Xx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5ESsEdE2R0v1nrLPIeM4Xx",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-hk-top50",
+      "name": "Top 100 - Hong Kong",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Hong Kong",
+      "country": "hk",
+      "youtubePlaylistId": "PL4fGSI1pDJn5ZuHumtS6meFhiCcxLqrCb",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5ZuHumtS6meFhiCcxLqrCb",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-hu-top50",
+      "name": "Top 100 - Hungary",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Hungary",
+      "country": "hu",
+      "youtubePlaylistId": "PL4fGSI1pDJn6-AkuEzkhgTBJq3Lm0Oolc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6-AkuEzkhgTBJq3Lm0Oolc",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-is-top50",
+      "name": "Top 100 - Iceland",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Iceland",
+      "country": "is",
+      "youtubePlaylistId": "PL4fGSI1pDJn5AT1xUL_xmiBWNqDv33giB",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5AT1xUL_xmiBWNqDv33giB",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-in-top50",
+      "name": "Top 100 - India",
+      "description": "Tangga lagu resmi YouTube Music paling populer di India",
+      "country": "in",
+      "youtubePlaylistId": "PL4fGSI1pDJn40WjZ6utkIuj2rNg-7iGsq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn40WjZ6utkIuj2rNg-7iGsq",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ie-top50",
+      "name": "Top 100 - Ireland",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Ireland",
+      "country": "ie",
+      "youtubePlaylistId": "PL4fGSI1pDJn574980IA4DVKDl8PDskrCj",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn574980IA4DVKDl8PDskrCj",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-il-top50",
+      "name": "Top 100 - Israel",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Israel",
+      "country": "il",
+      "youtubePlaylistId": "PL4fGSI1pDJn5xFol0l4GwBnHYtXXMaY82",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5xFol0l4GwBnHYtXXMaY82",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ke-top50",
+      "name": "Top 100 - Kenya",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Kenya",
+      "country": "ke",
+      "youtubePlaylistId": "PL4fGSI1pDJn5OYRHJhIu_bu7NRnkZ56ds",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5OYRHJhIu_bu7NRnkZ56ds",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-lu-top50",
+      "name": "Top 100 - Luxembourg",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Luxembourg",
+      "country": "lu",
+      "youtubePlaylistId": "PL4fGSI1pDJn5Zla7aGxRJkvIbikXpf3VR",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5Zla7aGxRJkvIbikXpf3VR",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-my-top50",
+      "name": "Top 100 - Malaysia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Malaysia",
+      "country": "my",
+      "youtubePlaylistId": "PL4fGSI1pDJn6jO_K7Kh2dVe2-Bx-i3ezR",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6jO_K7Kh2dVe2-Bx-i3ezR",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-nl-top50",
+      "name": "Top 100 - Netherlands",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Netherlands",
+      "country": "nl",
+      "youtubePlaylistId": "PL4fGSI1pDJn5i2QIxSEhPqSzhqsWhhrBJ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5i2QIxSEhPqSzhqsWhhrBJ",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-nz-top50",
+      "name": "Top 100 - New Zealand",
+      "description": "Tangga lagu resmi YouTube Music paling populer di New Zealand",
+      "country": "nz",
+      "youtubePlaylistId": "PL4fGSI1pDJn5yaX2-KEdvxQK0w938c-NX",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5yaX2-KEdvxQK0w938c-NX",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ni-top50",
+      "name": "Top 100 - Nicaragua",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Nicaragua",
+      "country": "ni",
+      "youtubePlaylistId": "PL4fGSI1pDJn49ZZQP_cqjJ6NvkJ-qf9sn",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn49ZZQP_cqjJ6NvkJ-qf9sn",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ng-top50",
+      "name": "Top 100 - Nigeria",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Nigeria",
+      "country": "ng",
+      "youtubePlaylistId": "PL4fGSI1pDJn5dHScZlGIe6TEoGzFv_qZE",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5dHScZlGIe6TEoGzFv_qZE",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-no-top50",
+      "name": "Top 100 - Norway",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Norway",
+      "country": "no",
+      "youtubePlaylistId": "PL4fGSI1pDJn5qlG8HM7Iq54JE8SROhAvM",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5qlG8HM7Iq54JE8SROhAvM",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pa-top50",
+      "name": "Top 100 - Panama",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Panama",
+      "country": "pa",
+      "youtubePlaylistId": "PL4fGSI1pDJn5HtzpSBgS58MlBzOfKgqGw",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5HtzpSBgS58MlBzOfKgqGw",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-py-top50",
+      "name": "Top 100 - Paraguay",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Paraguay",
+      "country": "py",
+      "youtubePlaylistId": "PL4fGSI1pDJn5rl3PizG5yhj1R97Jl4vBq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5rl3PizG5yhj1R97Jl4vBq",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pe-top50",
+      "name": "Top 100 - Peru",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Peru",
+      "country": "pe",
+      "youtubePlaylistId": "PL4fGSI1pDJn61j743B9r2LNeLCUUZsRMV",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn61j743B9r2LNeLCUUZsRMV",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ph-top50",
+      "name": "Top 100 - Philippines",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Philippines",
+      "country": "ph",
+      "youtubePlaylistId": "PL4fGSI1pDJn77tAbm8_DdZ0KdWSWYJlS4",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn77tAbm8_DdZ0KdWSWYJlS4",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pl-top50",
+      "name": "Top 100 - Poland",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Poland",
+      "country": "pl",
+      "youtubePlaylistId": "PL4fGSI1pDJn69d7Zwro65Q7ORLxFVqr_U",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn69d7Zwro65Q7ORLxFVqr_U",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pt-top50",
+      "name": "Top 100 - Portugal",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Portugal",
+      "country": "pt",
+      "youtubePlaylistId": "PL4fGSI1pDJn6G_VdIB6wxGYzuai0iA1hC",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6G_VdIB6wxGYzuai0iA1hC",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ro-top50",
+      "name": "Top 100 - Romania",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Romania",
+      "country": "ro",
+      "youtubePlaylistId": "PL4fGSI1pDJn6L8lQpfbnXpXUR71uksmP2",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6L8lQpfbnXpXUR71uksmP2",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ru-top50",
+      "name": "Top 100 - Russia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Russia",
+      "country": "ru",
+      "youtubePlaylistId": "PL4fGSI1pDJn6cLcPmcc9b_l8oM0aJtsqL",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6cLcPmcc9b_l8oM0aJtsqL",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-sa-top50",
+      "name": "Top 100 - Saudi Arabia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Saudi Arabia",
+      "country": "sa",
+      "youtubePlaylistId": "PL4fGSI1pDJn7b8BNLVP8XUrJCQp_loKZT",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7b8BNLVP8XUrJCQp_loKZT",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-rs-top50",
+      "name": "Top 100 - Serbia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Serbia",
+      "country": "rs",
+      "youtubePlaylistId": "PL4fGSI1pDJn6WdZq272-vbCc5SJ1zxzbC",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6WdZq272-vbCc5SJ1zxzbC",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-sg-top50",
+      "name": "Top 100 - Singapore",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Singapore",
+      "country": "sg",
+      "youtubePlaylistId": "PL4fGSI1pDJn6NXctD9ORkRNLT7DwyhIOw",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6NXctD9ORkRNLT7DwyhIOw",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-za-top50",
+      "name": "Top 100 - South Africa",
+      "description": "Tangga lagu resmi YouTube Music paling populer di South Africa",
+      "country": "za",
+      "youtubePlaylistId": "PL4fGSI1pDJn79YvDK-Dq95SAW1V28wnns",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn79YvDK-Dq95SAW1V28wnns",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-se-top50",
+      "name": "Top 100 - Sweden",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Sweden",
+      "country": "se",
+      "youtubePlaylistId": "PL4fGSI1pDJn6l_eirqF_T40p1B8eJg2Pz",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6l_eirqF_T40p1B8eJg2Pz",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ch-top50",
+      "name": "Top 100 - Switzerland",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Switzerland",
+      "country": "ch",
+      "youtubePlaylistId": "PL4fGSI1pDJn4KBb656ZmzFTCGK0eAv5bu",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4KBb656ZmzFTCGK0eAv5bu",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-tw-top50",
+      "name": "Top 100 - Taiwan",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Taiwan",
+      "country": "tw",
+      "youtubePlaylistId": "PL4fGSI1pDJn4eKyK8APGwl0S0wgyHvQyU",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4eKyK8APGwl0S0wgyHvQyU",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-tz-top50",
+      "name": "Top 100 - Tanzania",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Tanzania",
+      "country": "tz",
+      "youtubePlaylistId": "PL4fGSI1pDJn7-3qlPahSCN5PagP0L1p6r",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7-3qlPahSCN5PagP0L1p6r",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-th-top50",
+      "name": "Top 100 - Thailand",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Thailand",
+      "country": "th",
+      "youtubePlaylistId": "PL4fGSI1pDJn5J-6eohuDgVr8lTdRpcVQo",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5J-6eohuDgVr8lTdRpcVQo",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-tr-top50",
+      "name": "Top 100 - Turkey",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Turkey",
+      "country": "tr",
+      "youtubePlaylistId": "PL4fGSI1pDJn6rnJKpaAkK1XK8QUfa9KqP",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6rnJKpaAkK1XK8QUfa9KqP",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ug-top50",
+      "name": "Top 100 - Uganda",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Uganda",
+      "country": "ug",
+      "youtubePlaylistId": "PL4fGSI1pDJn75xappx8QlV4-0nuyXlDAr",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn75xappx8QlV4-0nuyXlDAr",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ua-top50",
+      "name": "Top 100 - Ukraine",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Ukraine",
+      "country": "ua",
+      "youtubePlaylistId": "PL4fGSI1pDJn7524WZdmWAIRc6cQ3vUzZK",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7524WZdmWAIRc6cQ3vUzZK",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ae-top50",
+      "name": "Top 100 - United Arab Emirates",
+      "description": "Tangga lagu resmi YouTube Music paling populer di United Arab Emirates",
+      "country": "ae",
+      "youtubePlaylistId": "PL4fGSI1pDJn4CDqdXJ4xP78Hh7X72vIXM",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4CDqdXJ4xP78Hh7X72vIXM",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-uy-top50",
+      "name": "Top 100 - Uruguay",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Uruguay",
+      "country": "uy",
+      "youtubePlaylistId": "PL4fGSI1pDJn5giLQO3qUCqpp_MSDRmJNA",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5giLQO3qUCqpp_MSDRmJNA",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-zw-top50",
+      "name": "Top 100 - Zimbabwe",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Zimbabwe",
+      "country": "zw",
+      "youtubePlaylistId": "PL4fGSI1pDJn7HuQm191bZDx7ZMMgk9-Bp",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7HuQm191bZDx7ZMMgk9-Bp",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pk-top50",
+      "name": "Top Hits - Pakistan",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Pakistan",
+      "country": "pk",
+      "youtubePlaylistId": "PLy_wKxVmWb4awLwIktp2HWzj82rJAZqmp",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLy_wKxVmWb4awLwIktp2HWzj82rJAZqmp",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-bd-top50",
+      "name": "Top Hits - Bangladesh",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Bangladesh",
+      "country": "bd",
+      "youtubePlaylistId": "PLzxTmXYDR-xXzzlHxQk0AeUxunUwOYdkg",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLzxTmXYDR-xXzzlHxQk0AeUxunUwOYdkg",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-lk-top50",
+      "name": "Top Hits - Sri Lanka",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Sri Lanka",
+      "country": "lk",
+      "youtubePlaylistId": "PLlycjkU3lGnvBxWBKFehhkwfOB3W2lxyi",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlycjkU3lGnvBxWBKFehhkwfOB3W2lxyi",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-np-top50",
+      "name": "Top Hits - Nepal",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Nepal",
+      "country": "np",
+      "youtubePlaylistId": "PLD7wW5VULQmgepy-B8G3sJqh3mmGZJ-2H",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLD7wW5VULQmgepy-B8G3sJqh3mmGZJ-2H",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-kz-top50",
+      "name": "Top Hits - Kazakhstan",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Kazakhstan",
+      "country": "kz",
+      "youtubePlaylistId": "PLMmVJHHEJ42_8iScyiXCgRlh0L8S-L-l8",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ42_8iScyiXCgRlh0L8S-L-l8",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-uz-top50",
+      "name": "Top Hits - Uzbekistan",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Uzbekistan",
+      "country": "uz",
+      "youtubePlaylistId": "PLsc319b1rJ3s8AKIVXsuUvzDEgqtVUTac",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLsc319b1rJ3s8AKIVXsuUvzDEgqtVUTac",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-az-top50",
+      "name": "Top Hits - Azerbaijan",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Azerbaijan",
+      "country": "az",
+      "youtubePlaylistId": "PL2W1rzawRf04LK7VrtKcCNLK__n5kA95x",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2W1rzawRf04LK7VrtKcCNLK__n5kA95x",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ge-top50",
+      "name": "Top Hits - Georgia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Georgia",
+      "country": "ge",
+      "youtubePlaylistId": "PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-am-top50",
+      "name": "Top Hits - Armenia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Armenia",
+      "country": "am",
+      "youtubePlaylistId": "PLReI40KGodv7r2xNo3OsL-kIa2NvTA6Bn",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLReI40KGodv7r2xNo3OsL-kIa2NvTA6Bn",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-gr-top50",
+      "name": "Top Hits - Greece",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Greece",
+      "country": "gr",
+      "youtubePlaylistId": "PLR1pV08XJLn62PKSpZQ9dMDkdOczA0Mrx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLR1pV08XJLn62PKSpZQ9dMDkdOczA0Mrx",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-hr-top50",
+      "name": "Top Hits - Croatia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Croatia",
+      "country": "hr",
+      "youtubePlaylistId": "PL-730UPdmn6gSD4XG--Z0bv8rZlnp6o5A",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL-730UPdmn6gSD4XG--Z0bv8rZlnp6o5A",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-sk-top50",
+      "name": "Top Hits - Slovakia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Slovakia",
+      "country": "sk",
+      "youtubePlaylistId": "PLK9Va2Rr8zavU6gh1P1krkusWY13R3qyp",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLK9Va2Rr8zavU6gh1P1krkusWY13R3qyp",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-si-top50",
+      "name": "Top Hits - Slovenia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Slovenia",
+      "country": "si",
+      "youtubePlaylistId": "PLKKzD37zZHFq8penuCpn0hRBq-or0O1fP",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLKKzD37zZHFq8penuCpn0hRBq-or0O1fP",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-bg-top50",
+      "name": "Top Hits - Bulgaria",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Bulgaria",
+      "country": "bg",
+      "youtubePlaylistId": "PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-lt-top50",
+      "name": "Top Hits - Lithuania",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Lithuania",
+      "country": "lt",
+      "youtubePlaylistId": "PLq-OJmZ-Fa5fOZdXBIgMoxwf5sM7iH5do",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLq-OJmZ-Fa5fOZdXBIgMoxwf5sM7iH5do",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-lv-top50",
+      "name": "Top Hits - Latvia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Latvia",
+      "country": "lv",
+      "youtubePlaylistId": "PLSID2GRiQ3RRndCg_iLMAbJutCvH22qAX",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLSID2GRiQ3RRndCg_iLMAbJutCvH22qAX",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ma-top50",
+      "name": "Top Hits - Morocco",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Morocco",
+      "country": "ma",
+      "youtubePlaylistId": "PLME9drm1zCz9C8w26Qy1EIoik7ODKX467",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLME9drm1zCz9C8w26Qy1EIoik7ODKX467",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-tn-top50",
+      "name": "Top Hits - Tunisia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Tunisia",
+      "country": "tn",
+      "youtubePlaylistId": "PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-dz-top50",
+      "name": "Top Hits - Algeria",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Algeria",
+      "country": "dz",
+      "youtubePlaylistId": "PLME9drm1zCz9i0TYgdwNBJCgRZtqfYSRZ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLME9drm1zCz9i0TYgdwNBJCgRZtqfYSRZ",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-gh-top50",
+      "name": "Top Hits - Ghana",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Ghana",
+      "country": "gh",
+      "youtubePlaylistId": "PLwF8NMk_bBzwhDusk19Lk6UBYdN4X-rPW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLwF8NMk_bBzwhDusk19Lk6UBYdN4X-rPW",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-sn-top50",
+      "name": "Top Hits - Senegal",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Senegal",
+      "country": "sn",
+      "youtubePlaylistId": "PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-et-top50",
+      "name": "Top Hits - Ethiopia",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Ethiopia",
+      "country": "et",
+      "youtubePlaylistId": "PLbFwajYWEkFBEV9DIUxLip1k-aDbeXhES",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbFwajYWEkFBEV9DIUxLip1k-aDbeXhES",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-jm-top50",
+      "name": "Top Hits - Jamaica",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Jamaica",
+      "country": "jm",
+      "youtubePlaylistId": "PLxvodScTx2RuFQ2yyEOS9lH5XcDvZwQgA",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLxvodScTx2RuFQ2yyEOS9lH5XcDvZwQgA",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-cu-top50",
+      "name": "Top Hits - Cuba",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Cuba",
+      "country": "cu",
+      "youtubePlaylistId": "PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ve-top50",
+      "name": "Top Hits - Venezuela",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Venezuela",
+      "country": "ve",
+      "youtubePlaylistId": "PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-pr-top50",
+      "name": "Top Hits - Puerto Rico",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Puerto Rico",
+      "country": "pr",
+      "youtubePlaylistId": "PLD4oPgpQqhvVL0Ga9Y84k74AiGBkwqpa6",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLD4oPgpQqhvVL0Ga9Y84k74AiGBkwqpa6",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-lb-top50",
+      "name": "Top Hits - Lebanon",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Lebanon",
+      "country": "lb",
+      "youtubePlaylistId": "PLME9drm1zCz8B1zZjceEQWTqWN0aQLJlc",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLME9drm1zCz8B1zZjceEQWTqWN0aQLJlc",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-jo-top50",
+      "name": "Top Hits - Jordan",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Jordan",
+      "country": "jo",
+      "youtubePlaylistId": "PLPzmWRobZJufxYO1WaDfzhjoBfe75_Gjm",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLPzmWRobZJufxYO1WaDfzhjoBfe75_Gjm",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-kw-top50",
+      "name": "Top Hits - Kuwait",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Kuwait",
+      "country": "kw",
+      "youtubePlaylistId": "PLMmVJHHEJ429dyDMIrhacPqsruUzIjCkl",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429dyDMIrhacPqsruUzIjCkl",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-qa-top50",
+      "name": "Top Hits - Qatar",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Qatar",
+      "country": "qa",
+      "youtubePlaylistId": "PLtf-pjtMzMuTIui1bYWcrpHV0swhi30Mb",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLtf-pjtMzMuTIui1bYWcrpHV0swhi30Mb",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-om-top50",
+      "name": "Top Hits - Oman",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Oman",
+      "country": "om",
+      "youtubePlaylistId": "PLw4Dp84aQCDSCrJgqQUL4DhRpqK0Z5MBW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLw4Dp84aQCDSCrJgqQUL4DhRpqK0Z5MBW",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-bh-top50",
+      "name": "Top Hits - Bahrain",
+      "description": "Kompilasi lagu populer dan tangga lagu pilihan di Bahrain",
+      "country": "bh",
+      "youtubePlaylistId": "PLaF8PWiKoDv7loApzx4nzPxvKqqMVVzSY",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLaF8PWiKoDv7loApzx4nzPxvKqqMVVzSY",
+      "createdAt": "2026-11-13T06:51:52Z"
     }
   ],
   "meta": {
-    "total": 13,
-    "weekStart": "2026-11-13T04:40:08Z",
-    "weekEnd": "2026-11-13T04:40:08Z"
+    "total": 103,
+    "weekStart": "2026-11-13T06:51:52Z",
+    "weekEnd": "2026-11-13T06:51:52Z"
   }
 }
