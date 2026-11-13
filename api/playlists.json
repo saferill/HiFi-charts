@@ -699,27 +699,27 @@
       "name": "Top Hits - Azerbaijan",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Azerbaijan",
       "country": "az",
-      "youtubePlaylistId": "PL2W1rzawRf04LK7VrtKcCNLK__n5kA95x",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2W1rzawRf04LK7VrtKcCNLK__n5kA95x",
-      "createdAt": "2026-11-13T06:51:52Z"
+      "youtubePlaylistId": "PLrSwgim-i5YxhSleXOjpMC0kJQ9Es6_Zv",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLrSwgim-i5YxhSleXOjpMC0kJQ9Es6_Zv",
+      "createdAt": "2026-11-13T21:42:44Z"
     },
     {
       "id": "chart-ge-top50",
       "name": "Top Hits - Georgia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Georgia",
       "country": "ge",
-      "youtubePlaylistId": "PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
-      "createdAt": "2026-11-13T15:45:45Z"
+      "youtubePlaylistId": "PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "createdAt": "2026-11-13T21:42:44Z"
     },
     {
       "id": "chart-am-top50",
       "name": "Top Hits - Armenia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Armenia",
       "country": "am",
-      "youtubePlaylistId": "PLReI40KGodv7r2xNo3OsL-kIa2NvTA6Bn",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLReI40KGodv7r2xNo3OsL-kIa2NvTA6Bn",
-      "createdAt": "2026-11-13T06:51:52Z"
+      "youtubePlaylistId": "PLReI40KGodv7TxNWv6veBK74WV05b2CN3",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLReI40KGodv7TxNWv6veBK74WV05b2CN3",
+      "createdAt": "2026-11-13T21:42:44Z"
     },
     {
       "id": "chart-gr-top50",
@@ -825,9 +825,9 @@
       "name": "Top Hits - Senegal",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Senegal",
       "country": "sn",
-      "youtubePlaylistId": "PLnh6OQvAilL7ALDPtk2fkcbfBmeeDpSQm",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLnh6OQvAilL7ALDPtk2fkcbfBmeeDpSQm",
-      "createdAt": "2026-11-13T06:53:43Z"
+      "youtubePlaylistId": "PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "createdAt": "2026-11-13T21:42:44Z"
     },
     {
       "id": "chart-et-top50",
@@ -931,7 +931,7 @@
   ],
   "meta": {
     "total": 103,
-    "weekStart": "2026-11-13T15:45:45Z",
-    "weekEnd": "2026-11-13T15:45:45Z"
+    "weekStart": "2026-11-13T21:42:44Z",
+    "weekEnd": "2026-11-13T21:42:44Z"
   }
 }
