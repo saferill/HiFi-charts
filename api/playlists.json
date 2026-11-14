@@ -389,6 +389,15 @@
       "createdAt": "2026-11-13T06:51:52Z"
     },
     {
+      "id": "chart-nl-top50",
+      "name": "Top 100 - Netherlands",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Netherlands",
+      "country": "nl",
+      "youtubePlaylistId": "PL4fGSI1pDJn5i2QIxSEhPqSzhqsWhhrBJ",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5i2QIxSEhPqSzhqsWhhrBJ",
+      "createdAt": "2026-11-14T21:46:33Z"
+    },
+    {
       "id": "chart-nz-top50",
       "name": "Top 100 - New Zealand",
       "description": "Tangga lagu resmi YouTube Music paling populer di New Zealand",
@@ -486,6 +495,15 @@
       "youtubePlaylistId": "PL4fGSI1pDJn6L8lQpfbnXpXUR71uksmP2",
       "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6L8lQpfbnXpXUR71uksmP2",
       "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ru-top50",
+      "name": "Top 100 - Russia",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Russia",
+      "country": "ru",
+      "youtubePlaylistId": "PL4fGSI1pDJn6cLcPmcc9b_l8oM0aJtsqL",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn6cLcPmcc9b_l8oM0aJtsqL",
+      "createdAt": "2026-11-14T21:46:33Z"
     },
     {
       "id": "chart-sa-top50",
@@ -780,9 +798,9 @@
       "name": "Top Hits - Tunisia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Tunisia",
       "country": "tn",
-      "youtubePlaylistId": "PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
-      "createdAt": "2026-11-13T15:45:45Z"
+      "youtubePlaylistId": "PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
+      "createdAt": "2026-11-14T21:46:33Z"
     },
     {
       "id": "chart-dz-top50",
@@ -807,9 +825,9 @@
       "name": "Top Hits - Senegal",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Senegal",
       "country": "sn",
-      "youtubePlaylistId": "PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
-      "createdAt": "2026-11-14T16:13:34Z"
+      "youtubePlaylistId": "PLnh6OQvAilL7ALDPtk2fkcbfBmeeDpSQm",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLnh6OQvAilL7ALDPtk2fkcbfBmeeDpSQm",
+      "createdAt": "2026-11-14T21:46:33Z"
     },
     {
       "id": "chart-et-top50",
@@ -834,9 +852,9 @@
       "name": "Top Hits - Cuba",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Cuba",
       "country": "cu",
-      "youtubePlaylistId": "PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
-      "createdAt": "2026-11-13T06:51:52Z"
+      "youtubePlaylistId": "PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
+      "createdAt": "2026-11-14T21:46:33Z"
     },
     {
       "id": "chart-ve-top50",
@@ -852,9 +870,9 @@
       "name": "Top Hits - Puerto Rico",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Puerto Rico",
       "country": "pr",
-      "youtubePlaylistId": "PLBEMg9Y0YOYqTSSd_bnqzuuEGPhWPRinT",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLBEMg9Y0YOYqTSSd_bnqzuuEGPhWPRinT",
-      "createdAt": "2026-11-14T16:13:34Z"
+      "youtubePlaylistId": "PLD4oPgpQqhvVL0Ga9Y84k74AiGBkwqpa6",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLD4oPgpQqhvVL0Ga9Y84k74AiGBkwqpa6",
+      "createdAt": "2026-11-14T21:46:33Z"
     },
     {
       "id": "chart-lb-top50",
@@ -912,7 +930,7 @@
     }
   ],
   "meta": {
-    "total": 101,
+    "total": 103,
     "weekStart": "2026-11-09T00:00:00Z",
     "weekEnd": "2026-11-15T23:59:59Z"
   }
