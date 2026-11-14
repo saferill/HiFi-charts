@@ -15,7 +15,7 @@ This repository serves as a zero-cost, static API backend hosted directly via Gi
 
 ## Data Schema
 
-The feed indexes curated YouTube Music chart playlists consumed directly by `com.maxrave.kotlinytmusicscraper.models.response.HiFiChartResponse`:
+The feed indexes curated YouTube Music chart playlists consumed directly by `com.maxrave.kotlinytmusicscraper.models.response.HiFiChartResponse` (the values below are an **example only**; see [`api/playlists.json`](./api/playlists.json) for live data):
 
 ```json
 {
@@ -26,27 +26,29 @@ The feed indexes curated YouTube Music chart playlists consumed directly by `com
       "name": "Top 50 - Indonesia",
       "description": "Lagu-lagu terpopuler dan paling sering diputar minggu ini di Indonesia",
       "country": "id",
-      "youtubePlaylistId": "PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80V87lTz4hLdEsm7A_7a_Bwb",
-      "createdAt": "2026-11-12T11:41:17Z"
+      "youtubePlaylistId": "PLxxxxxxxx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLxxxxxxxx",
+      "createdAt": "2026-11-12T00:00:00Z"
     },
     {
       "id": "chart-global-top50",
       "name": "Top 50 - Global",
       "description": "Lagu paling populer dan viral di seluruh dunia minggu ini",
       "country": "global",
-      "youtubePlaylistId": "PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSIndQ80Z1hO4kKkL4Qz8S-aF8f-6E",
-      "createdAt": "2026-11-12T11:41:17Z"
+      "youtubePlaylistId": "PLxxxxxxxx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLxxxxxxxx",
+      "createdAt": "2026-11-12T00:00:00Z"
     }
   ],
   "meta": {
-    "total": 13,
-    "weekStart": "2026-11-12T11:41:17Z",
-    "weekEnd": "2026-11-12T11:41:17Z"
+    "total": 103,
+    "weekStart": "2026-11-09T00:00:00Z",
+    "weekEnd": "2026-11-15T23:59:59Z"
   }
 }
 ```
+
+> Note: `meta.total` above is an example only (as of last sync, see `meta.total` in [`api/playlists.json`](./api/playlists.json)).
 
 ---
 
@@ -66,11 +68,13 @@ The feed indexes curated YouTube Music chart playlists consumed directly by `com
 | `es` | Spain | Top 50 Spain |
 | `it` | Italy | Top 50 Italy |
 
+Plus 90+ additional countries (Top 100 / Top Hits) — see [`api/playlists.json`](./api/playlists.json) for the full list.
+
 ---
 
 ## Automated Synchronization
 
-Charts are verified and refreshed every 12 hours via GitHub Actions (`.github/workflows/sync-charts.yml`) using `scripts/sync-charts.py`.
+Charts are verified and refreshed every 2 hours via GitHub Actions (`.github/workflows/sync-charts.yml`) using `scripts/sync-charts.py`.
 
 ---
 

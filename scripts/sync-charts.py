@@ -16,10 +16,17 @@ import datetime
 import json
 import os
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+COUNTRY_CODE_MAP = {"GB": "uk"}
+
+
+def normalize_country_code(code):
+    return COUNTRY_CODE_MAP.get(code.upper(), code.lower())
 
 YT_BROWSE_URL = "https://music.youtube.com/youtubei/v1/browse?prettyPrint=false"
 YT_SEARCH_URL = "https://music.youtube.com/youtubei/v1/search?prettyPrint=false"
@@ -197,7 +204,7 @@ def yt_post(url, payload, timeout=12):
 def decode_country_code(form_item_key):
     try:
         raw = urllib.parse.unquote(form_item_key)
-        decoded = base64.b64decode(raw + "==").decode("latin1", errors="ignore")
+        decoded = base64.b64decode(raw + "=" * (-len(raw) % 4)).decode("latin1", errors="ignore")
         m = re.search(r"country_menu_\d+([A-Z]{2})", decoded)
         if m:
             return m.group(1)
@@ -249,6 +256,7 @@ def pick_best_chart_id(playlists, mode="top"):
         for title, pid in playlists:
             if "trending" in title.lower():
                 return pid
+    print(f"[WARN] fallback to first playlist: {playlists[0][0]}", flush=True)
     return playlists[0][1]
 
 
@@ -291,7 +299,8 @@ def fetch_official_charts():
             )
             pls = extract_chart_playlists(d)
             return code, name, pls
-        except Exception:
+        except Exception as exc:
+            print(f"[ERROR] fetch_one failed for {code} ({name}): {exc}", file=sys.stderr, flush=True)
             return code, name, []
 
     with ThreadPoolExecutor(max_workers=8) as pool:
@@ -305,7 +314,7 @@ def fetch_official_charts():
 
 
 def search_country_chart_playlist(country_name):
-    """Search YouTube for a country's Top Songs/Hits playlist and validate it on YouTube Music."""
+    """Search YouTube web (www.youtube.com) for a country's Top Songs/Hits playlist and validate it on YouTube Music."""
     queries = [
         f"Top 50 {country_name} music",
         f"Top Hits {country_name} playlist",
@@ -326,7 +335,7 @@ def search_country_chart_playlist(country_name):
                 {"context": web_ctx, "query": q, "params": "EgIQAw%3D%3D"},
             )
             txt = json.dumps(d)
-            candidates = list(dict.fromkeys(re.findall(r'"playlistId":\s*"(PL[^"]+|RDCLAK5uy_[^"]+)"', txt)))
+            candidates = list(dict.fromkeys(re.findall(r'"playlistId":\s*"(PL[A-Za-z0-9_-]+)"', txt)))
             for pid in candidates[:5]:
                 if validate_playlist(pid):
                     return pid
@@ -335,16 +344,42 @@ def search_country_chart_playlist(country_name):
     return None
 
 
+def _has_video_id(obj):
+    if isinstance(obj, dict):
+        if obj.get("videoId"):
+            return True
+        return any(_has_video_id(v) for v in obj.values())
+    if isinstance(obj, list):
+        return any(_has_video_id(v) for v in obj)
+    return False
+
+
 def validate_playlist(playlist_id):
-    """Verify via YouTube Music browse VL<id> that the playlist exists and has > 0 tracks."""
+    """Verify via YouTube Music browse VL<id> that the playlist exists and has > 0 musicResponsiveListItemRenderer tracks with a videoId."""
     if not playlist_id:
         return False
     try:
         d = yt_post(YT_BROWSE_URL, {"context": BASE_CONTEXT, "browseId": f"VL{playlist_id}"})
-        txt = json.dumps(d)
-        # Must contain at least one playable videoId inside playlist items
-        if '"musicResponsiveListItemRenderer"' in txt and '"videoId":' in txt:
-            return True
+        track_count = 0
+
+        def walk(obj):
+            nonlocal track_count
+            if isinstance(obj, dict):
+                if "musicResponsiveListItemRenderer" in obj:
+                    item = obj["musicResponsiveListItemRenderer"]
+                    if isinstance(item, dict) and (
+                        _has_video_id(item.get("playlistItemData"))
+                        or _has_video_id(item.get("navigationEndpoint"))
+                    ):
+                        track_count += 1
+                for v in obj.values():
+                    walk(v)
+            elif isinstance(obj, list):
+                for v in obj:
+                    walk(v)
+
+        walk(d)
+        return track_count > 0
     except Exception:
         pass
     return False
@@ -364,7 +399,17 @@ def load_existing_playlists():
 
 
 def main():
-    now_iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    now_iso = now_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
+    week_monday = (now_utc - datetime.timedelta(days=now_utc.weekday())).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
+    week_sunday = (week_monday + datetime.timedelta(days=6)).replace(
+        hour=23, minute=59, second=59, microsecond=0
+    )
+    week_start_iso = week_monday.strftime("%Y-%m-%dT%H:%M:%SZ")
+    week_end_iso = week_sunday.strftime("%Y-%m-%dT%H:%M:%SZ")
+
     existing_by_id, existing_doc = load_existing_playlists()
 
     print("Fetching official country list & charts from YouTube Music FEmusic_charts...", flush=True)
@@ -375,13 +420,25 @@ def main():
     seen_ids = set()
     flagship_countries = set()
 
-    # 1. Build the 13 flagship charts in exact order at the top
-    for spec in FLAGSHIP_SPECS:
+    # 1. Build the 13 flagship charts in exact order at the top (parallel validation)
+    def validate_flagship(spec):
         _, code, mode = spec["source"]
         info = charts_by_code.get(code)
         pid = pick_best_chart_id(info["playlists"], mode=mode) if info else None
-
         if pid and validate_playlist(pid):
+            return spec["id"], code, pid
+        return spec["id"], code, None
+
+    flagship_validated = {}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futs = [pool.submit(validate_flagship, spec) for spec in FLAGSHIP_SPECS]
+        for fut in as_completed(futs):
+            sid, code, pid = fut.result()
+            flagship_validated[sid] = (code, pid)
+
+    for spec in FLAGSHIP_SPECS:
+        code, pid = flagship_validated[spec["id"]]
+        if pid:
             flagship_countries.add(code)
             final_items.append({
                 "id": spec["id"],
@@ -420,21 +477,26 @@ def main():
     for code, name in remaining_official:
         if code in official_validated:
             cname, pid = official_validated[code]
-            cid = f"chart-{code.lower()}-top50"
+            norm_cc = normalize_country_code(code)
+            cid = f"chart-{norm_cc}-top50"
             if cid not in seen_ids:
                 seen_ids.add(cid)
                 final_items.append({
                     "id": cid,
                     "name": f"Top 100 - {cname}",
                     "description": f"Tangga lagu resmi YouTube Music paling populer di {cname}",
-                    "country": code.lower(),
+                    "country": norm_cc,
                     "youtubePlaylistId": pid,
                     "youtubeUrl": f"https://music.youtube.com/playlist?list={pid}",
                 })
 
     # 3. Expand to 100+ countries via YouTube Music playlist search
-    official_lower = {c.lower() for c, _, _ in official_list} | {"gb"}
-    extra_targets = [(cc, cname) for cc, cname in EXTRA_COUNTRIES if cc not in official_lower]
+    official_lower = {normalize_country_code(c) for c, _, _ in official_list}
+    extra_targets = [
+        (normalize_country_code(cc), cname)
+        for cc, cname in EXTRA_COUNTRIES
+        if normalize_country_code(cc) not in official_lower
+    ]
 
     def resolve_extra(cc, cname):
         pid = search_country_chart_playlist(cname)
@@ -451,24 +513,41 @@ def main():
     for cc, cname in extra_targets:
         if cc in extra_results:
             _, pid = extra_results[cc]
-            cid = f"chart-{cc}-top50"
+            norm_cc = normalize_country_code(cc)
+            cid = f"chart-{norm_cc}-top50"
             if cid not in seen_ids:
                 seen_ids.add(cid)
                 final_items.append({
                     "id": cid,
                     "name": f"Top Hits - {cname}",
                     "description": f"Kompilasi lagu populer dan tangga lagu pilihan di {cname}",
-                    "country": cc,
+                    "country": norm_cc,
                     "youtubePlaylistId": pid,
                     "youtubeUrl": f"https://music.youtube.com/playlist?list={pid}",
                 })
 
-    # Preserve createdAt if item's youtubePlaylistId is unchanged (avoids empty 2-hourly commits)
+    # Guard against empty or incomplete fetches wiping api/playlists.json
+    if not final_items or len(final_items) < len(FLAGSHIP_SPECS):
+        print(
+            f"[ERROR] Sync aborted: expected at least {len(FLAGSHIP_SPECS)} flagship charts, "
+            f"got {len(final_items)}. Leaving api/playlists.json untouched.",
+            file=sys.stderr,
+            flush=True,
+        )
+        sys.exit(1)
+
+    # Preserve createdAt if item fields are unchanged (avoids empty 2-hourly commits)
     changed = existing_doc is None or len(final_items) != len(existing_doc.get("data", []))
     for item in final_items:
         prev = existing_by_id.get(item["id"])
         if prev and prev.get("youtubePlaylistId") == item["youtubePlaylistId"] and prev.get("name") == item["name"]:
             item["createdAt"] = prev.get("createdAt", now_iso)
+            if (
+                prev.get("description") != item["description"]
+                or prev.get("country") != item["country"]
+                or prev.get("youtubeUrl") != item["youtubeUrl"]
+            ):
+                changed = True
         else:
             item["createdAt"] = now_iso
             changed = True
@@ -482,8 +561,8 @@ def main():
         "data": final_items,
         "meta": {
             "total": len(final_items),
-            "weekStart": now_iso,
-            "weekEnd": now_iso,
+            "weekStart": week_start_iso,
+            "weekEnd": week_end_iso,
         },
     }
 
