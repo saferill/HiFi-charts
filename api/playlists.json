@@ -708,9 +708,9 @@
       "name": "Top Hits - Georgia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Georgia",
       "country": "ge",
-      "youtubePlaylistId": "PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
-      "createdAt": "2026-11-15T16:41:27Z"
+      "youtubePlaylistId": "PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
+      "createdAt": "2026-11-16T03:37:03Z"
     },
     {
       "id": "chart-am-top50",
@@ -762,9 +762,9 @@
       "name": "Top Hits - Bulgaria",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Bulgaria",
       "country": "bg",
-      "youtubePlaylistId": "PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
-      "createdAt": "2026-11-15T16:41:27Z"
+      "youtubePlaylistId": "PL8hjm8_-3c7JRjAf_1lZoEOOUd9qTksun",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL8hjm8_-3c7JRjAf_1lZoEOOUd9qTksun",
+      "createdAt": "2026-11-16T03:37:03Z"
     },
     {
       "id": "chart-lt-top50",
@@ -798,9 +798,9 @@
       "name": "Top Hits - Tunisia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Tunisia",
       "country": "tn",
-      "youtubePlaylistId": "PLT1Vw5t8FIecaONuOAF91MtpyI8WolMqr",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLT1Vw5t8FIecaONuOAF91MtpyI8WolMqr",
-      "createdAt": "2026-11-15T22:15:05Z"
+      "youtubePlaylistId": "PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
+      "createdAt": "2026-11-16T03:37:03Z"
     },
     {
       "id": "chart-dz-top50",
@@ -843,9 +843,9 @@
       "name": "Top Hits - Jamaica",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Jamaica",
       "country": "jm",
-      "youtubePlaylistId": "PLxvodScTx2RuFQ2yyEOS9lH5XcDvZwQgA",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLxvodScTx2RuFQ2yyEOS9lH5XcDvZwQgA",
-      "createdAt": "2026-11-13T06:51:52Z"
+      "youtubePlaylistId": "PLSID2GRiQ3RQtkN-CyZKQIydFsIFa1W4p",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLSID2GRiQ3RQtkN-CyZKQIydFsIFa1W4p",
+      "createdAt": "2026-11-16T03:37:03Z"
     },
     {
       "id": "chart-cu-top50",
@@ -906,9 +906,9 @@
       "name": "Top Hits - Qatar",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Qatar",
       "country": "qa",
-      "youtubePlaylistId": "PLMmVJHHEJ42-vJspHTptkwSWBsGk9cbVS",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ42-vJspHTptkwSWBsGk9cbVS",
-      "createdAt": "2026-11-15T22:15:05Z"
+      "youtubePlaylistId": "PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "createdAt": "2026-11-16T03:37:03Z"
     },
     {
       "id": "chart-om-top50",
@@ -931,7 +931,7 @@
   ],
   "meta": {
     "total": 103,
-    "weekStart": "2026-11-09T00:00:00Z",
-    "weekEnd": "2026-11-15T23:59:59Z"
+    "weekStart": "2026-11-16T00:00:00Z",
+    "weekEnd": "2026-11-22T23:59:59Z"
   }
 }
