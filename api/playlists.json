@@ -119,15 +119,6 @@
       "createdAt": "2026-11-13T06:51:52Z"
     },
     {
-      "id": "chart-ca-top50",
-      "name": "Top 100 - Canada",
-      "description": "Tangga lagu resmi YouTube Music paling populer di Canada",
-      "country": "ca",
-      "youtubePlaylistId": "PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
-      "createdAt": "2026-11-13T06:51:52Z"
-    },
-    {
       "id": "chart-ar-top50",
       "name": "Top 100 - Argentina",
       "description": "Tangga lagu resmi YouTube Music paling populer di Argentina",
@@ -170,6 +161,15 @@
       "country": "bo",
       "youtubePlaylistId": "PL4fGSI1pDJn7ShAOJR2HPZrHb83DpSzV8",
       "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn7ShAOJR2HPZrHb83DpSzV8",
+      "createdAt": "2026-11-13T06:51:52Z"
+    },
+    {
+      "id": "chart-ca-top50",
+      "name": "Top 100 - Canada",
+      "description": "Tangga lagu resmi YouTube Music paling populer di Canada",
+      "country": "ca",
+      "youtubePlaylistId": "PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4IeWA7bBJYh__qgOCRMkIh",
       "createdAt": "2026-11-13T06:51:52Z"
     },
     {
@@ -663,9 +663,9 @@
       "name": "Top Hits - Sri Lanka",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Sri Lanka",
       "country": "lk",
-      "youtubePlaylistId": "PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "createdAt": "2026-11-17T05:34:10Z"
+      "youtubePlaylistId": "PL3NiAFiZvGxSjfspuyMldy11U5BjdC0cG",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL3NiAFiZvGxSjfspuyMldy11U5BjdC0cG",
+      "createdAt": "2026-11-17T15:04:38Z"
     },
     {
       "id": "chart-np-top50",
@@ -762,9 +762,9 @@
       "name": "Top Hits - Bulgaria",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Bulgaria",
       "country": "bg",
-      "youtubePlaylistId": "PL8hjm8_-3c7JRjAf_1lZoEOOUd9qTksun",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL8hjm8_-3c7JRjAf_1lZoEOOUd9qTksun",
-      "createdAt": "2026-11-17T05:34:10Z"
+      "youtubePlaylistId": "PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLbHSzeTr370qg7TjQHCqKGg3gItCtleQy",
+      "createdAt": "2026-11-17T15:04:38Z"
     },
     {
       "id": "chart-lt-top50",
@@ -798,9 +798,9 @@
       "name": "Top Hits - Tunisia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Tunisia",
       "country": "tn",
-      "youtubePlaylistId": "PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ429Z2cQiYB_o8w7LdjA7Dy0R",
-      "createdAt": "2026-11-16T03:37:03Z"
+      "youtubePlaylistId": "PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX2fOqd7arA37HjlImMaEm_G",
+      "createdAt": "2026-11-17T15:04:38Z"
     },
     {
       "id": "chart-dz-top50",
@@ -852,9 +852,9 @@
       "name": "Top Hits - Cuba",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Cuba",
       "country": "cu",
-      "youtubePlaylistId": "PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
-      "createdAt": "2026-11-17T05:34:10Z"
+      "youtubePlaylistId": "PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
+      "createdAt": "2026-11-17T15:04:38Z"
     },
     {
       "id": "chart-ve-top50",
@@ -906,9 +906,9 @@
       "name": "Top Hits - Qatar",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Qatar",
       "country": "qa",
-      "youtubePlaylistId": "PL39z-AAkkattGLfEghqlE0tPqSHF_wCmi",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL39z-AAkkattGLfEghqlE0tPqSHF_wCmi",
-      "createdAt": "2026-11-17T05:34:10Z"
+      "youtubePlaylistId": "PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLCGIzmTE4d0gEHK31fdcvzIs-odaYBMtq",
+      "createdAt": "2026-11-17T15:04:38Z"
     },
     {
       "id": "chart-om-top50",
