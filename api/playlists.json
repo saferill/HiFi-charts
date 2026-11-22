@@ -227,15 +227,6 @@
       "createdAt": "2026-11-13T06:51:52Z"
     },
     {
-      "id": "chart-ec-top50",
-      "name": "Top 100 - Ecuador",
-      "description": "Tangga lagu resmi YouTube Music paling populer di Ecuador",
-      "country": "ec",
-      "youtubePlaylistId": "PL4fGSI1pDJn4mwbdPq0EeOiD86MvMtkq0",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4fGSI1pDJn4mwbdPq0EeOiD86MvMtkq0",
-      "createdAt": "2026-11-13T06:51:52Z"
-    },
-    {
       "id": "chart-eg-top50",
       "name": "Top 100 - Egypt",
       "description": "Tangga lagu resmi YouTube Music paling populer di Egypt",
@@ -663,9 +654,9 @@
       "name": "Top Hits - Sri Lanka",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Sri Lanka",
       "country": "lk",
-      "youtubePlaylistId": "PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "createdAt": "2026-11-22T01:45:38Z"
+      "youtubePlaylistId": "PL4Sf8S5uZu2E45BlE_3bPTkhcKK_8cIHW",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL4Sf8S5uZu2E45BlE_3bPTkhcKK_8cIHW",
+      "createdAt": "2026-11-22T08:58:38Z"
     },
     {
       "id": "chart-np-top50",
@@ -825,9 +816,9 @@
       "name": "Top Hits - Senegal",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Senegal",
       "country": "sn",
-      "youtubePlaylistId": "PLTariUrSxayvQBnFfvV-0_wTOqOEhRk23",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLTariUrSxayvQBnFfvV-0_wTOqOEhRk23",
-      "createdAt": "2026-11-22T01:45:38Z"
+      "youtubePlaylistId": "PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLg48S-qywklufi0KzKnuj0mY-cKwzh9cx",
+      "createdAt": "2026-11-22T08:58:38Z"
     },
     {
       "id": "chart-et-top50",
@@ -852,9 +843,9 @@
       "name": "Top Hits - Cuba",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Cuba",
       "country": "cu",
-      "youtubePlaylistId": "PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLRLZp2jjL-6ULXWgsl_aj9CZKOsdclv0v",
-      "createdAt": "2026-11-22T01:45:38Z"
+      "youtubePlaylistId": "PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PL2FjpPvL8NrKg63aJx-H7FQBwyLccwiac",
+      "createdAt": "2026-11-22T08:58:38Z"
     },
     {
       "id": "chart-ve-top50",
@@ -915,9 +906,9 @@
       "name": "Top Hits - Oman",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Oman",
       "country": "om",
-      "youtubePlaylistId": "PLw4Dp84aQCDSCrJgqQUL4DhRpqK0Z5MBW",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLw4Dp84aQCDSCrJgqQUL4DhRpqK0Z5MBW",
-      "createdAt": "2026-11-21T04:38:55Z"
+      "youtubePlaylistId": "PLxA687tYuMWhaxAdhLmGE9JL3GL9AAyb8",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLxA687tYuMWhaxAdhLmGE9JL3GL9AAyb8",
+      "createdAt": "2026-11-22T08:58:38Z"
     },
     {
       "id": "chart-bh-top50",
@@ -930,7 +921,7 @@
     }
   ],
   "meta": {
-    "total": 103,
+    "total": 102,
     "weekStart": "2026-11-16T00:00:00Z",
     "weekEnd": "2026-11-22T23:59:59Z"
   }
