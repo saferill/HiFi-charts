@@ -663,9 +663,9 @@
       "name": "Top Hits - Sri Lanka",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Sri Lanka",
       "country": "lk",
-      "youtubePlaylistId": "PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLlYKDqBVDxX1mMz5joYfNi5Yo5FlJ5qbF",
-      "createdAt": "2026-11-22T17:28:00Z"
+      "youtubePlaylistId": "PLiDApY8lDwFB390wSJtl9avivwSB4b7Li",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLiDApY8lDwFB390wSJtl9avivwSB4b7Li",
+      "createdAt": "2026-11-23T04:32:20Z"
     },
     {
       "id": "chart-np-top50",
@@ -708,9 +708,9 @@
       "name": "Top Hits - Georgia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Georgia",
       "country": "ge",
-      "youtubePlaylistId": "PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLLqaQhnkzqLI9mvCXHkmF9sQ_UyTaIyHW",
-      "createdAt": "2026-11-22T22:55:18Z"
+      "youtubePlaylistId": "PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLC3jGHcn7eGxSadJam5B8A7XX0R9xCXuS",
+      "createdAt": "2026-11-23T04:32:20Z"
     },
     {
       "id": "chart-am-top50",
@@ -726,9 +726,9 @@
       "name": "Top Hits - Greece",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Greece",
       "country": "gr",
-      "youtubePlaylistId": "PLDAdWcDpOZ8Hv__2lHE2uu5_612rpqfFn",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLDAdWcDpOZ8Hv__2lHE2uu5_612rpqfFn",
-      "createdAt": "2026-11-22T01:45:38Z"
+      "youtubePlaylistId": "PLR1pV08XJLn62PKSpZQ9dMDkdOczA0Mrx",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLR1pV08XJLn62PKSpZQ9dMDkdOczA0Mrx",
+      "createdAt": "2026-11-23T04:32:20Z"
     },
     {
       "id": "chart-hr-top50",
@@ -780,9 +780,9 @@
       "name": "Top Hits - Latvia",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Latvia",
       "country": "lv",
-      "youtubePlaylistId": "PLSID2GRiQ3RRndCg_iLMAbJutCvH22qAX",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLSID2GRiQ3RRndCg_iLMAbJutCvH22qAX",
-      "createdAt": "2026-11-22T22:55:18Z"
+      "youtubePlaylistId": "PLKKzD37zZHFqAGgI7BrVdPYODmsosOsO7",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLKKzD37zZHFqAGgI7BrVdPYODmsosOsO7",
+      "createdAt": "2026-11-23T04:32:20Z"
     },
     {
       "id": "chart-ma-top50",
@@ -861,9 +861,9 @@
       "name": "Top Hits - Venezuela",
       "description": "Kompilasi lagu populer dan tangga lagu pilihan di Venezuela",
       "country": "ve",
-      "youtubePlaylistId": "PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
-      "youtubeUrl": "https://music.youtube.com/playlist?list=PLXl9q53Jut6k8PL6Ia1nP68_GPVfr8Z3_",
-      "createdAt": "2026-11-13T15:45:45Z"
+      "youtubePlaylistId": "PLMmVJHHEJ42_GVKPMIBp3xkFOJYdLZutD",
+      "youtubeUrl": "https://music.youtube.com/playlist?list=PLMmVJHHEJ42_GVKPMIBp3xkFOJYdLZutD",
+      "createdAt": "2026-11-23T04:32:20Z"
     },
     {
       "id": "chart-pr-top50",
@@ -931,7 +931,7 @@
   ],
   "meta": {
     "total": 103,
-    "weekStart": "2026-11-16T00:00:00Z",
-    "weekEnd": "2026-11-22T23:59:59Z"
+    "weekStart": "2026-11-23T00:00:00Z",
+    "weekEnd": "2026-11-29T23:59:59Z"
   }
 }
